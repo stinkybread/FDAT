@@ -338,6 +338,6 @@ LHAN's multiple model variants enable deployment across different computational 
 The transition from synthetic to real-world evaluation paradigms is essential for advancing super-resolution research toward practical impact. LHAN provides a foundation for this transition, offering both architectural innovations and empirical evidence for the importance of authentic degradation modeling in super-resolution research. As the field evolves beyond the limitations of bicubic benchmarks, hybrid attention architectures like LHAN will play an increasingly important role in bridging the gap between research achievements and practical applications, ultimately delivering super-resolution capabilities that work effectively in real-world scenarios.
 
 ---
-> **Note:** This is a work-in-progress paper. The LHAN architecture has been built from scratch with the assistance of AI (Claude + Gemini Pro 2.5). For questions, collaboration, or implementation details, contact "sharekhan." on the neosr / Enhance Everything Discord server.
+> **Note:** This is a work-in-progress paper. The LHAN architecture has been built from scratch with the assistance of AI (Claude + Gemini Pro 2.5). For questions, collaboration, or implementation details, contact "sharekhan." on the Enhance Everything Discord server.
 
 ---
